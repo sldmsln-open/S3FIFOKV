@@ -140,12 +140,12 @@ other details:
 │ Small Queue │ (10% of total size)
 │ Hot Items │
 └──────────────┘
-↕
+
 ┌──────────────┐
 │ Main Queue │ (90% of total size)
 │ All Items │
 └──────────────┘
-↕
+
 ┌──────────────┐
 │ Ghost Queue │ (10% of total size)
 │ Evicted Items│
